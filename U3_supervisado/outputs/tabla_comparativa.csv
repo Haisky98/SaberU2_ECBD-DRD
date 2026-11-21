@@ -1,0 +1,7 @@
+Modelo,Exactitud,Precisión (macro),Recall (macro),F1 (macro)
+Línea base,0.545,0.272,0.5,0.353
+Regresión logística,0.621,0.62,0.607,0.604
+Árbol de decisión,0.616,0.615,0.6,0.594
+Random Forest,0.626,0.628,0.61,0.604
+Logística optimizada,0.636,0.634,0.635,0.634
+Random Forest optimizado,0.618,0.616,0.617,0.616
