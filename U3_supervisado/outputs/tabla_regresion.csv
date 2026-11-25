@@ -1,0 +1,4 @@
+Modelo,MAE,RMSE,R²
+Línea base (promedio),10.78,13.9,-0.001
+Regresión lineal,10.071,13.061,0.117
+Random Forest de regresión,10.118,13.091,0.113
